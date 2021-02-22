@@ -5657,6 +5657,11 @@ gzip-size@5.1.1:
     duplexer "^0.1.1"
     pify "^4.0.1"
 
+h8k-design@^1.0.16:
+  version "1.0.16"
+  resolved "https://registry.yarnpkg.com/h8k-design/-/h8k-design-1.0.16.tgz#8fa3617f1665b6dd3eec0e25cb8f1d02f61dee81"
+  integrity sha512-uKzI6VDEuzyAkIY+E3ERrJbOaEkv2UAtUwwMEYfjlqrtu1HUDeJlwoo5gimWr4m5l11c0TsHuPx+2RNKo5YiNA==
+
 handle-thing@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/handle-thing/-/handle-thing-2.0.0.tgz#0e039695ff50c93fc288557d696f3c1dc6776754"
